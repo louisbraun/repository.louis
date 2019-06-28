@@ -7,7 +7,7 @@
 		<dir>
 			<info>https://raw.githubusercontent.com/louisbraun/repoaddons/master/addons.xml</info>
 			<checksum>https://raw.githubusercontent.com/louisbraun/repoaddons/master/addons.xml.md5</checksum>
-			<datadir>https://github.com/louisbraun/repoaddons/tree/master/addons</datadir>
+			<datadir>https://github.com/louisbraun/repoaddons/raw/master/addons</datadir>
 		</dir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
